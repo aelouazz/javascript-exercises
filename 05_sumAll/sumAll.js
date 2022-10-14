@@ -1,4 +1,4 @@
-const sumstartll = function (start, end) {
+const sumAll = function (start, end) {
 	if (
 		typeof start != "number" ||
 		typeof end != "number" ||
@@ -18,4 +18,4 @@ const sumstartll = function (start, end) {
 };
 
 // Do not edit below this line
-module.exports = sumstartll;
+module.exports = sumAll;
